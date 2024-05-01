@@ -17,7 +17,10 @@ let cheackCount=0;
 let Symbol="~!@#$%^&*(){}[]+<>?/";
    handleSlider();
    
- 
+
+
+
+
 
 //set passwordlength
 function handleSlider(){
